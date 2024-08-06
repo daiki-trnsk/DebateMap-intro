@@ -25,7 +25,9 @@ body {
     margin: 0 auto;
 }
 
-.main {}
+.main {
+     font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
+}
 
 .main-visual {
     text-align: center;
