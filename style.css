@@ -123,6 +123,10 @@ li {
 }
 
 @media (max-width: 768px) {
+    .main {
+        font-family: 'Noto Serif JP', sans-serif;
+    }
+    
     .contents {
         flex-direction: column;
     }
