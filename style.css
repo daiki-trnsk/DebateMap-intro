@@ -26,7 +26,7 @@ body {
 }
 
 .main {
-     font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
+    font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
 }
 
 .main-visual {
@@ -120,6 +120,17 @@ li {
 .ftr p {
     margin: 0 auto;
     padding-right: 20px;
+}
+
+.postscript {
+    margin: 100px auto;
+    padding: 20px;
+    width: 80%;
+    background-color: rgb(217, 255, 225);
+}
+
+.postscript h3 {
+    margin: 0;
 }
 
 @media (max-width: 768px) {
